@@ -13,6 +13,7 @@ Classify tank images into predefined classes based on visual appearance.
 ## Dataset
 - ~500 images per class
 - Train / Validation / Test split
+- link this dataset - https://www.kaggle.com/datasets/ualikazbek/tank-image-classification-dataset
 
 ## Results
               precision    recall  f1-score   support
