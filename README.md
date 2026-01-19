@@ -31,3 +31,4 @@ Classify tank images into predefined classes based on visual appearance.
     accuracy                          0.968       500
    macro avg      0.969     0.968     0.968       500
 weighted avg      0.969     0.968     0.968       500
+'''
