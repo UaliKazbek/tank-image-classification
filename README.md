@@ -15,6 +15,7 @@ Classify tank images into predefined classes based on visual appearance.
 - Train / Validation / Test split
 
 ## Results
+'''
               precision    recall  f1-score   support
 
            0      0.980     0.980     0.980        50
