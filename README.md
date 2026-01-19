@@ -15,7 +15,6 @@ Classify tank images into predefined classes based on visual appearance.
 - Train / Validation / Test split
 
 ## Results
-'''
               precision    recall  f1-score   support
 
            0      0.980     0.980     0.980        50
@@ -30,6 +29,5 @@ Classify tank images into predefined classes based on visual appearance.
            9      0.926     1.000     0.962        50
 
     accuracy                          0.968       500
-   macro avg      0.969     0.968     0.968       500
-weighted avg      0.969     0.968     0.968       500
-'''
+
+
